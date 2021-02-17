@@ -26,7 +26,7 @@
   ​
   To run tests, run the following command:​
 
-  node server.js
+  * node server.js
 
   ## Questions
   ​
