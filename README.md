@@ -32,3 +32,7 @@
   ## Questions
   ​
   If you have any questions about the repo, open an issue or contact me directly at lakjflsf. You can find more of my work at my github (https://github.com/jpls218/).
+
+  ## Screenshots
+
+  ![Screenshot of App](Budget_Tracker.jpeg)
