@@ -3,8 +3,7 @@
   ## Description
   The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
   ​
-  ## Table of Contents 
-  ​
+  ## Table of Contents  ​
   * [Installation](#installation)
   ​
   * [Usage](#usage)
